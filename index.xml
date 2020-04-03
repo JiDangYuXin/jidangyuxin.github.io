@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>激荡于心的博客</title>
-    <link>http://example.org/</link>
+    <link>https://jidangyuxin.github.io/</link>
     <description>Recent content on 激荡于心的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Fri, 03 Apr 2020 21:45:00 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jidangyuxin.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>开博大吉</title>
-      <link>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <link>https://jidangyuxin.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
       <pubDate>Fri, 03 Apr 2020 21:45:00 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+      <guid>https://jidangyuxin.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
       <description>关于hugo 什么是hugo Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。对比Hexo，Hugo仅需一个二进制文件（hugo.exe）即可实现网站生成的生成。而且就如它官网介绍：The world’s fastest framework for building websites。Hugo是目前最快的网站构建框架。凭借其惊人的速度和灵活性，解决了环境依赖、性能较差的问题，还有使用简单、部署方便等诸多优点，通过 LiveReload 实时刷新，极大的优化文章的写作体验。Hugo使建站再次变得有趣。 hugo能做什么 hugo是静态网站生成器，能够作为一些展示类网站的解决方案。比如个人博客、产品介绍、个人作品展示、文档介绍、公司官网等等。再加上Github Pages的功能，就能不花一分钱建一个自己的网站了。</description>
     </item>
     
