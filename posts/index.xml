@@ -6,10 +6,19 @@
     <description>Recent content in Posts on 激荡于心的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Fri, 03 Apr 2020 21:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 22:13:50 +0800</lastBuildDate>
     
 	<atom:link href="https://jidangyuxin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>第二篇博客</title>
+      <link>https://jidangyuxin.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Fri, 03 Apr 2020 22:13:50 +0800</pubDate>
+      
+      <guid>https://jidangyuxin.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <description>第二篇博客 hugo 编译 进入 public git</description>
+    </item>
     
     <item>
       <title>开博大吉</title>
