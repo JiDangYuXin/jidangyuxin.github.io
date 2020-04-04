@@ -6,10 +6,27 @@
     <description>Recent content in Posts on 激荡于心的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Fri, 03 Apr 2020 22:13:50 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2020 09:49:13 +0800</lastBuildDate>
     
 	<atom:link href="https://jidangyuxin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>如何用hugo搭建个人博客</title>
+      <link>https://jidangyuxin.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sat, 04 Apr 2020 09:49:13 +0800</pubDate>
+      
+      <guid>https://jidangyuxin.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>如何用hugo搭建个人博客  本地安装git
+  windows系统
+  一. 安装hugo  选择自己电脑对应的版本进行下载 下载安装完成之后配置好环境变量 到终端输入 hugo version 查看是否配置成功   hugo下载地址https://github.com/gohugoio/hugo/releases
+ 二. 生成本地站点  输入命令   hugo new site quickstart
+ 新建一个名为“quickstart”的网站
+三. 添加主题 1. 输入以下命令下载默认主题  git init
+  git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
+ 2. 将主题添加到站点配置  echo &amp;lsquo;theme = &amp;ldquo;ananke&amp;rdquo;&amp;rsquo; &amp;raquo; config.toml
+ 四. 创建一篇文章 1. 输入以下命令，在 content/posts 目录下会自动生成 my-first-post.md 文件，此页面为文章初始页面。  hugo new post/my_first_blog.md（其中my_first_blog为文章的名字）</description>
+    </item>
     
     <item>
       <title>第二篇博客</title>
